@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maximozslfjvno.github.io/my-silent-blade-site/sitemap.xml
